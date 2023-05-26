@@ -1,0 +1,7 @@
+20001;Cerveza inglesa 250 ml;10;15.5;
+20002;Snack mix Gigante;8;20.5;
+20003;Botella de Champange;2;50.0;
+20004;Wisky Label Red;20;200.0;
+20005;Preservativos Piel;150;25.0;
+20006;Chocolate Cusco;25;15.9;
+20007;Vino añejo 1950;10;500.0;
