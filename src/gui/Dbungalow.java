@@ -182,7 +182,7 @@ Bungalow ab = new Bungalow("Bungalow.txt");
 				lblGuardar.setBackground(Color.BLACK);
 				lblGuardar.setOpaque(true);
 				lblGuardar.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
-				lblGuardar.setIcon(new ImageIcon(Dbungalow.class.getResource("/javax/swing/plaf/metal/icons/ocean/floppy.gif")));
+				//lblGuardar.setIcon(new ImageIcon(Dbungalow.class.getResource("/javax/swing/plaf/metal/icons/ocean/floppy.gif")));
 				lblGuardar.setBounds(10, 11, 72, 20);
 				panel.add(lblGuardar);
 			}

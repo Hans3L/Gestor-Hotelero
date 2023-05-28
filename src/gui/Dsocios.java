@@ -171,7 +171,7 @@ public class Dsocios extends JDialog implements ActionListener, MouseListener, K
 		lblGuardar.setOpaque(true);
 		
 		lblGuardar.setForeground(Color.WHITE);
-		lblGuardar.setIcon(new ImageIcon(Dsocios.class.getResource("/javax/swing/plaf/metal/icons/ocean/floppy.gif")));
+		//lblGuardar.setIcon(new ImageIcon(Dsocios.class.getResource("/javax/swing/plaf/metal/icons/ocean/floppy.gif")));
 		lblGuardar.setBounds(20, 11, 79, 20);
 		contentPanel.add(lblGuardar);
 		btnListar.addActionListener(this);

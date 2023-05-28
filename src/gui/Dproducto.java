@@ -162,7 +162,7 @@ public class Dproducto extends JDialog implements ActionListener, MouseListener 
 		lblGuardar.setForeground(Color.WHITE);
 		lblGuardar.setOpaque(true);
 		lblGuardar.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
-		lblGuardar.setIcon(new ImageIcon(Dproducto.class.getResource("/com/sun/java/swing/plaf/windows/icons/FloppyDrive.gif")));
+		//lblGuardar.setIcon(new ImageIcon(Dproducto.class.getResource("/com/sun/java/swing/plaf/windows/icons/FloppyDrive.gif")));
 		lblGuardar.setBounds(10, 11, 68, 20);
 		contentPanel.add(lblGuardar);
 		{
